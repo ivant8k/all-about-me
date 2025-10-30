@@ -1,4 +1,4 @@
-# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+<!-- # UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 > **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
 
@@ -212,4 +212,97 @@ Ke depan, saya ingin terus **mendesain lingkungan belajar dan sistem cerdas** ya
 [3]: https://azrl.wordpress.com/?utm_source=chatgpt.com "Armein Z. R. Langi in the City of Eden | Joy of loving and ..."
 [4]: https://azrl.wordpress.com/2008/12/01/family/?utm_source=chatgpt.com "Family | Armein Z. R. Langi in the City of Eden"
 [5]: https://azrl.wordpress.com/2008/07/29/caltech/?utm_source=chatgpt.com "Caltech | Armein Z. R. Langi in the City of Eden"
-[6]: https://azrl.wordpress.com/2010/01/09/on-being-nice/?utm_source=chatgpt.com "On Being Nice | Armein Z. R. Langi in the City of Eden"
+[6]: https://azrl.wordpress.com/2010/01/09/on-being-nice/?utm_source=chatgpt.com "On Being Nice | Armein Z. R. Langi in the City of Eden" -->
+
+# UTS-4: My SHAPE
+
+**Nama:** Ivant Samuel Silaban
+
+
+## S - Signature Strengths (Kekuatan Khas)
+
+1. **Kegigihan (Persistence) & Resiliensi:** Kekuatan inti dari cerita dari my stories for you. Terbukti dari "Siklus Terbentur, Terbentuk". Aku mungkin jatuh ke dalam kemalasan atau down (Kontaminasi), tapi aku selalu bangkit kembali (Penebusan).
+
+2. **Kebaikan Hati (Kindness) & Empati:** Kekuatan inti dari cerita all about me. Ini adalah akar dari "Tirani Harmoni". Meskipun sempat menjadi 'bug', ini tetap kekuatan fundamentalku. Aku "mengutamakan perasaan orang lain" dan "peduli".
+
+3. **Kecerdasan Sosial & Perspektif:** Dari all about me. Aku adalah "pengamat interaksi manusia" dan "suka mencari keindahan di momen kecil". Ini adalah kekuatan analitis di ranah sosial.
+
+4. **Rasa Ingin Tahu (Curiosity) & Cinta Belajar:** Dari cerita my stories for you. Terbukti dari momen 'Ensiklopedia' dan hobi "eksplorasi" di cerita all about me.
+
+## H - Heart (Hati: Nilai Inti & Gairah)
+
+Berdasarkan Latihan Klarifikasi Nilai:
+
+**Nilai Inti #1: Pertumbuhan Pribadi:** Aku sangat menghargai proses 'terbentuk' setelah 'terbentur'. Aku percaya pada perbaikan diri yang terus-menerus.
+
+**Nilai Inti #2: Kebijaksanaan (Wisdom):** Didikan Ayah dan pelajaran dari Amsal (all about me). Aku menghargai pengambilan keputusan yang tepat dan berani (seperti menetapkan boundaries).
+
+**Nilai Inti #3: Harmoni & Koneksi:** Didikan Ibu (all about me). Meski "Tirani Harmoni" itu buruk, Harmoni yang sehat tetap jadi nilai inti buat aku.
+
+**Aku Bersemangat Tentang:** Memecahkan pola yang rumit (baik di dalam kode maupun dalam interaksi manusia) dan membantu orang lain menemukan 'benturan' mereka agar bisa 'terbentuk'.
+
+## A - Aptitudes & Acquired Skills (Bakat & Keterampilan)
+
+**Inventaris pribadi:**
+
+### Hard Skills (Teknis):
+
+- **Pemrograman:** Bahasa pemrograman, algoritma, struktur data.
+- **Analisis Data dan Riset (SQL, Statistik):** Analisis pola dan menyusun model
+- **Matematika dan Logika:** Kemampuan berpikir deduktif dan abstrak
+- **Desain Konseptual / Eksperimen teoretis:** Simulasi, modeling, dan framework, algoritma, dan model baru
+
+### Soft Skills (Non-Teknis):
+
+**Kesadaran Diri (Self-Awareness):** Aku sangat sadar akan pola siklus (malas-bangkit) dan kelemahanku ('nggak enakan').
+
+**Manajemen Krisis (di bawah tekanan):** Terbukti dari "Tragedi Solo Tubes" dari cerita all about me. Aku bisa mengerjakan 3 deadline besar sendirian (meski dengan konsekuensi).
+
+**Empati & Mendengarkan Aktif:** Kemampuan memahami kebutuhan orang lain dari cerita all about me
+
+**Resiliensi:** Kemampuan untuk bangkit dari kegagalan akademik/pribadi.
+
+## P - Personality (Profil Kepribadian)
+
+Berdasarkan tes 16Personalities:
+
+**Tipe MBTI:** INTP
+
+**Analisis (Mengapa ini cocok):** Profil ini adalah pusat dari konflik narasiku.
+
+- **(I) Introvert & (N) Intuitive:** Ini adalah mode "Pengamat".
+
+- **(T) Thinking vs. (F) Feeling:** Ini adalah inti "Tirani Harmoni" (UTS-1). Secara alamiah, aku suka berdebat (T), tapi didikan memaksa aku bertindak sebagai F (Harmoni). "Penebusan" (Amsal) adalah momen T (Thinking) aku mengambil alih 'Agensi'.
+
+- **(P) Perceiving vs. (J) Judging:** Ini adalah inti "Siklus Terbentur". Mode default aku adalah P (suka mengeksplor, gampang bosan, malas). Mode "terbentuk" aku adalah J (bangkit, grinding UAS). Kecenderungan "mendekati INTJ" adalah 'Agensi'-ku saat diaktifkan oleh 'benturan'.
+
+**Gaya Kerja yang Disukai:** Lingkungan yang logis dan adil. Aku butuh kebebasan untuk **mengeksplor (P)**, tapi juga **deadline yang jelas (J)** untuk memicu performa puncak.
+
+## E - Experiences (Pengalaman Hidup)
+
+Pelajaran Kunci dari Identitas Naratif:
+
+**Peristiwa:** "Siklus Terbentur, Terbentuk" (SMP & SMA).
+
+**Pelajaran:** Kegagalan adalah 'benturan' yang diperlukan untuk 'terbentuk'. Resiliensi lebih penting daripada kesempurnaan.
+
+**Peristiwa:** "Tirani Harmoni" & Konflik Teman.
+
+**Pelajaran:** Menjadi 'baik' (nilai H) bukan berarti menjadi 'pasif' (kelemahan). Kebijaksanaan (nilai H) berarti memiliki 'Agensi' untuk menetapkan batasan yang sehat.
+
+**Peristiwa:** "Olimpiade Matematika 'Ajaib'".
+
+**Pelajaran:** 'Agensi' (keberanian mencoba) dapat menciptakan 'bakat' yang tidak ada sebelumnya.
+
+## Piagam Pribadi
+
+**Pernyataan Misi Pribadi:**:
+"Menggunakan kekuatan (S) analitis dan empatiku untuk memecahkan masalah kompleks. Didorong oleh nilai (H) kebijaksanaan dan pertumbuhan, Aku menerapkan Agensi yang dipelajari dari pengalaman (E) 'Siklus Terbentur' (P/J) dan 'Tirani Harmoni' (T/F) untuk membangun koneksi yang otentik dan logis."
+
+## Identitas Naratif (Contoh "Ceritakan Diri Anda" 90 Detik)
+
+**(Masa Kini):** "Saat ini, aku adalah mahasiswa Teknik Informatika tingkat tiga, yang pada intinya adalah seorang INTP (Logician). aku secara alami suka mengeksplor ide-ide baru (P) dan suka berdebat (T) untuk mencari kebenaran."
+
+**(Masa Lalu - Sintesis SHAPE):** "Perjalananku dibentuk oleh konflik inti kepribadianku (P). Siklus (E) 'malas-bangkit' adalah siklus alami P (Perceiving) yang 'terbentur' lalu mengaktifkan mode J (Judging). Di sisi sosial, T (Thinking), aku suka berdebat berkonflik dengan nilai (H) Harmoni, yang menjebak aku dalam 'Tirani Harmoni' (E). 'Tragedi Solo Tubes' (E) adalah pelajaran ekstrem yang memaksa T (Thinking) mengambil alih 'Agensi'."
+
+**(Masa Depan):** "Ke depan, aku ingin menerapkan 'pola pikir' INTP/J aku yaitu menggunakan skill analitis (A) dan logika (T), didukung oleh resiliensi (S) untuk menjadi sosok yang bisa tetap membantu orang lain tanpa mengorbankan nilai (H) Harmoni yang sehat."

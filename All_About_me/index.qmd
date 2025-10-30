@@ -2,54 +2,44 @@
 
 Aku Ivant Samuel Silaban. Seorang mahasiswa Teknik Informatika di Institut Teknologi Bandung, dan ini adalah tahun ketigaku. Aku anak laki-laki satu-satunya dari empat bersaudara, sebuah posisi yang menanamkan ekspektasi untuk menjadi pemimpin dan pelindung di masa depan. Aku lahir di Balige, kota sunyi di tepi Danau Toba, sebelum akhirnya menjadikan Bandung rumah baru untuk menempa ilmu.
 
-Hobi? Aku nggak punya satu hobi pasti. Aku gampang bosan, jadi hobiku adalah mencoba hal baru. Mungkin itu hobi yang sebenarnya: eksplorasi. Aku juga suka mengamati interaksi manusia, mencari keindahan di momen-momen kecil yang sering terlewat.
+Secara alamiah, aku adalah seorang INTP. Artinya, aku punya dua sifat bawaan:
 
-Sebelum menginjakkan kaki di Institut Teknologi Bandung, aku sudah harus menempuh pendidikan dan menjalani hidup jauh dari orang tua sejak aku harus sekolah di sebuah sekolah asrama yang agak jauh dari rumah, membuatku harus menjadi sosok yang lebih mandiri dan disiplin. Satu kalimat yang meningatkanku waktu SMA adalah "terbentur, terbentur, terbentuk".
+1. Aku suka mengeksplor banyak hal (sisi 'P' - Prospecting), yang menjelaskan kenapa aku "gampang bosan" dan hobiku adalah "mencoba hal baru".
 
+2. Aku suka berdebat (sisi 'T' - Thinking). Aku suka menganalisis, mencari kebenaran logis, dan menantang ide yang tidak efisien.
 
-## **Narasi Penebusan #1: Agensi Melawan Siklus**
+Ironisnya, aku dididik untuk jadi bijaksana (kata Ayah) dan mengutamakan perasaan orang lain (kata Ibu). Kombinasi ini menghasilkan produk menarik: seorang INTP (logis & suka berdebat) yang terjebak dalam peran 'people-pleaser' (harmonis & pasif). Aku jadi manusia yang mandiri (anak asrama), tapi sangat bergantung pada validasi eksternal.
 
-Banyak orang sukses punya cerita tentang "bakat alami". Aku tidak. Sejujurnya, aku nggak merasa punya talenta bawaan apa-apa. Waktu kecil, aku melihat teman-temanku jago main musik, jago gambar, atau cepat menangkap pelajaran. Aku? Aku merasa biasa saja.
-Dalam banyak hal, aku merasa tertinggal. Ini bisa jadi Cerita Kontaminasi, cerita tentang anak yang terlahir 'biasa saja' dan ditakdirkan untuk jadi 'biasa saja'.
+Hobi? Aku nggak punya satu hobi pasti. Aku gampang bosan, jadi hobiku adalah mencoba hal baru. Mungkin itu hobi yang sebenarnya: eksplorasi. Aku juga suka mengamati interaksi manusia, mencari keindahan di momen-momen kecil yang sering terlewat. Aku adalah pengamat interaksi manusia. Aku suka mencari keindahan di momen kecil. Tapi aku juga punya 'bug' besar: aku lebih mengutamakan kenyamanan orang lain daripada kenyamananku sendiri.
 
-Tapi aku menolak narasi itu. Aku mungkin tidak punya bakat, tapi aku punya waktu dan tenaga. Aku percaya pada Agensi (Agency). Aku percaya bahwa aku adalah aktor utama dalam ceritaku, bukan korban pasif dari genetika.
+## **Tirani Harmoni: Saat 'Baik' Menjadi Bumerang**
+Aku dibesarkan untuk jadi 'anak baik'. Masalahnya, 'baik' sering disalahartikan sebagai 'pasif'. Aku terjebak dalam Kepasifan (Passivity, di mana aku membiarkan orang lain menulis dialog di cerita hidupku. Aku jadi pahlawan di cerita mereka, tapi jadi korban di ceritaku sendiri.
 
-'Momen berkilau' (sparkling moment) pertamaku datang dalam bentuk buku ensiklopedia tebal dari tanteku saat kelas 4 SD. Satu buku itu memicu sesuatu. Aku jadi hobi membaca dan mengeksplorasi. Kebangkitan ini mulai terasa di kelas 5 SD. Aku yang merasa paling kurang di matematika, nekat ikut seleksi tim olimpiade. Dan aku lolos walaupun dengan cara yang agak lucu, karena mayoritas jawabanku adalah tebakan di soal esai.
+Ini adalah Cerita Kontaminasi (Contamination Story) yang klasik. Niat baikku ('positif') diracuni oleh kepasifanku, yang membuatku dimanfaatkan oleh mereka ('negatif'). Aku membiarkan 'tumpahan minyak' ini meracuni kesehatan mentalku.
 
-Kejadian 'ajaib' itu menjadi katalis. Aku mulai fokus di akademik. Yang dulunya paling lama pulang sekolah karena tugas belum selesai, akhirnya bisa jadi juara kelas.
+*Tragedi 'Solo Tubes'*
 
-Tapi, Agensi-ku bukanlah garis lurus. Ia sebuah siklus. Cerita hidupku menunjukkan sebuah pola yang berulang: Kontaminasi -> Penebusan -> Kontaminasi -> Penebusan.
+Dari tahun pertama, setiap ada tugas berkelompok, kemungkinan besar ada paling tidak satu orang di kelompokku yang menjadi 'beban' kelompok. Tetapi selama tahun pertama, aku beruntung masih punya satu orang yang menjadi 'sepuh' kelompok, jadi aku tidak terlalu capek untuk berkontribusi mengerjakan tubes-tubes. Namun, semua berganti saat tubes kedua mata kuliah aljabar linear dan geometri, dimana di H-1, ada teman sekelompokku yang masih selesai bagian desain figmanya doang, sedangkan aku dan temanku yang satu lagi sudah kelar backend dari minggu pertama tugas tersebut diturunkan. Padahal selama tiga minggu lamanya, kami bertanya apakah sudah aman atau belum, dan dia selalu menjawab aman. Ini membuatku di hari-h deadline mengerjakan website sendirian sampai aku harus bolos kelas seharian. Kuharap ini adalah pertama dan terakhir kalinya aku mendapatkan kelompok seperti ini.
+Dan apakah ini memang sudah berakhir? Oh belum. Aku justru mendapatkan sesuatu yang bahkan jauh lebih parah. Di semester 4, ada satu week yang diisi ama 3 deadline tubes, yaitu tubes Sistem Operasi, Basis Data, dan Jaringan Komputer.  
+Untuk Sistem Operasi, terdiri dari lima milestone dengan soft deadline. Dimana milestone 1 dikerjakan oleh dua orang teman saya, lalu aku melakukan finishing pada milestone 1 dan sekalian mengerjakan sampai selesai milestone 2. Lalu pada milestone 2, temanku hanya mengerjakan setengah dan aku melanjutkannya. Dan ternyata bagian yang harus aku lanjutkan adalah salah satu bagian tersulit di tugas ini. Dan akhirnya selesai di h-7 deadline.  
+Tidak cukup sampai situ, selama dua atau tiga hari, aku membawa laptopku servis karena rawan blue screen, sehingga aku meminta temanku untuk melanjutkan milestone selanjutnya. Saat itu, aku mengantar laptopku bersama teman satu kos yang merupakan teman satu kelompokku juga. Selama tiga hari aku menunggu sambil mengerjakan tugas lain yang bisa dikerjakan lewat HP, dan akhirnya selesai. Paling menyedihkannya, ternyata tidak ada progress signifikan dari teman kelompokku, bahkan teman satu kosku selama ini terlalu asik bermain game. Jujur, aku sangat kesal ke teman satu kos ini apalagi ketika dia mengakui dia gak paham dengan tugas ini, tetapi aku selalu menahan diriku untuk tidak marah, dan mengambil keputusan untuk tidak tidur selama beberapa hari kedepan untuk menyelesaikan tugas ini. Tugas ini akhirnya dikumpul apa adanya, masih banyak masalah karena kecerobohanku selama mengerjakan tugas ini.  
+Dua hari kemudian adalah deadline tugas besar basis data. Tugas ini punya tiga milestone, dan selama tiga milestone ini, tidak semua kelompokku aktif, dan aku tidak terlalu mempermasalahkannya karena akhirnya selesai juga. Dan dua hari setelahnya adalah deadline tugas besar jaringan komputer. Tugas ini punya dua bagian besar, dan jauh sebelum deadline, aku sudah menyelesaikan satu bagian yang dimana berarti aku sudah kontribusi 40-50%. Untuk bagian 2, aku sudah bikin kode awalnya, tinggal tiga teman kelompokku menyesuaikan. Dan ya, ternyata tidak ada progres signifikan dan aku terpaksa solo tugas ini lagi, dan ironisnya, aku sekelompok dengan teman satu kosku itu.  
+Dan yang paling aneh dari semuanya adalah teman satu kosku itu. Dia bahkan tidak mengucapkan 'Maaf' atau 'Terima Kasih' sama sekali. Dan yang paling mengecewakan dari dia adalah dia masih selalu meninggalkanku, bahkan di saat aku lagi kurang enak badan karena beberapa hari tidak tidur dan persiapan untuk uas yang terlalu memaksakan diriku.
+Aku akhirnya menyadari bahwa aku baru saja mengorbankan kewarasanku untuk 'harmoni' palsu. Ini adalah "daya tarik interpersonal" yang sangat error. Ternyata 'daya tarik interpersonal'-ku adalah semacam magnet bagi freeloader profesional (just kidding :D).
 
-Polanya selalu sama: aku menjadi malas, sombong, dan terlena. Ini adalah Cerita Kontaminasi-ku yang berulang.
+### **Kontaminasi dari Orang Lain**
 
-- Siklus #1 (SMP): Aku lolos masuk kelas unggulan, berisi orang-orang di atas rata-rata. Aku terlena. Aku kembali jadi pemalas, tidak belajar menjelang ujian. Di kelas 7 dan 8, aku selalu di 'zona kuning'—zona waspada keluar dari kelas unggul. Puncaknya, teman-temanku mulai meninggalkanku karena akademikku yang hancur. Itu 'benturan' pertamaku. Aku down. Tapi 'benturan' itu juga yang membuatku 'terbentuk'. Di kelas 9, aku paksa diriku fokus, mengerjakan soal-soal sulit setiap hari. Hasilnya? Aku lolos ke SMA Unggulan, mengalahkan temanku yang dulu selalu juara kelas. Itu Penebusan pertamaku.
+Aku punya teman-teman yang, jujur saja, nggak punya arah. Aku membantu mereka, membagikan hal positif, dan nggak pernah meninggalkan mereka. Aku berharap 'kebaikan'-ku akan mengubah mereka.
+Hasilnya? Mereka mengecewakanku berkali-kali. Aku jadi si 'cuek' di luar, tapi 'kesal' di dalam. 
 
-- Siklus #2 (SMA): Aku pikir aku sudah belajar. Ternyata belum. Pola itu kembali, dan kali ini lebih parah. Efek daring karena COVID-19, aku hancur oleh games. Emosiku tidak stabil, akademikku hancur lebur. 'Kontaminasi' kali ini terasa fatal. 'Benturan' kedua datang saat kami kembali ke asrama. Aku sadar betapa hancurnya diriku. Dan sekali lagi, 'benturan' itu memaksaku 'terbentuk' kembali. Aku harus berjuang mati-matian untuk fokus lagi.
+## **Menulis Ulang Manual: Penebusan**
 
-Pola jatuh karena kemalasan, lalu bangkit karena 'tamparan' realita adalah inti ceritaku.
-
-Jadi, 'Agensi'-ku bukanlah kekuatan super yang stabil. Agensi-ku adalah resiliensi. Kemampuan untuk bangkit setelah jatuh. Penebusan terbesarnya hingga saat ini? Lolos ke Teknik Informatika ITB.
-
-Narasi negatif "aku tidak punya talenta" pada akhirnya diubah menjadi narasi positif "aku adalah bukti bahwa resiliensi dan kerja keras mengalahkan bakat".
-
-## **Narasi Penebusan #2: Tirani Harmoni**
-Aku pikir, setelah 'terbentuk' di asrama dan masuk ITB, aku sudah jadi pribadi yang kuat. Aku mandiri, disiplin. Tapi ternyata, ada 'bug' besar dalam diriku.
-Di kampus, beberapa orang bilang aku cuek, tapi di dalam, aku adalah manusia yang lebih mengutamakan kepentingan dan kenyamanan orang lain daripada diriku sendiri. Ironisnya, hal ini menjadi bencana.
-
-### **Kontaminasi dari 'Kepasifan'**
-Ayahku mendidikku jadi pria bijaksana, dan Ibuku mendidikku untuk mengutamakan perasaan orang lain. Terdengar bagus. Tapi nilai-nilai luhur ini jadi jebakan. Aku terjebak dalam Kepasifan (Passivity).
-
-Aku menjadi 'anak baik' yang nggak enakan. Aku membantu teman-teman yang jelas-jelas nggak punya arah dan nggak menghargaiku. Aku membagikan hal positif, dan tidak pernah meninggalkan mereka, berharap 'kebaikan'-ku akan mengubah mereka.
-
-Ini adalah Cerita Kontaminasi keduaku. Niat baikku ('positif') diracuni oleh kepasifanku, yang membuatku dimanfaatkan oleh mereka ('negatif'). Mereka mengecewakanku berkali-kali. Aku membiarkan 'tumpahan minyak' ini meracuni kesehatan mentalku.
-
-### **Penebusan: Menemukan Agensi (Lagi)**
 Setiap malam aku berpikir: apa mereka yang 'aneh'? Atau aku yang terlalu naif?
 
-'Benturan' kali ini bersifat batin. Momen 'terbentuk'-nya datang saat aku menemukan jawaban di Kitab Amsal: "Siapa bergaul dengan orang bijak menjadi bijak, tetapi siapa berteman dengan orang bebal menjadi malang."
+'Benturan'-nya bersifat batin. Momen 'terbentuk'-nya datang saat aku menemukan jawaban di Kitab Amsal: "Siapa bergaul dengan orang bijak menjadi bijak, tetapi siapa berteman dengan orang bebal menjadi malang."
 
-Ayat ini bukan sekadar nasihat. Bagiku, ini adalah 'momen berkilau' (sparkling moment), momen penalaran otobiografis yang menyadarkanku. Aku sadar bahwa 'bijaksana', seperti kata Ayahku bukan berarti 'pasif' dan membiarkan diri dimanfaatkan. Bijaksana berarti punya Agensi untuk memilih siapa yang layak ada di hidup kita.
+Ayat ini bukan sekadar nasihat. Bagiku, ini adalah 'momen berkilau' (sparkling moment), momen 'penalaran otobiografis' yang menyadarkanku. Aku sadar bahwa 'bijaksana' seperti kata Ayahku, bukan berarti 'pasif'. Bijaksana berarti punya Agensi (Agency) untuk memilih siapa yang layak ada di hidup kita.
 
-Aku pun mengambil keputusan. Aku 'terpaksa' meninggalkan mereka. Awalnya sakit, tapi ini jalan yang harus aku tempuh. Ini adalah Cerita Penebusan keduaku: mengubah 'kepasifan' yang merusak menjadi 'agensi' yang membebaskan.
+Aku pun mengambil keputusan. Aku 'terpaksa' meninggalkan mereka. Awalnya sakit, tapi ini jalan yang harus aku tempuh.
 
-Jadi, siapa aku? Aku Ivant. Aku bukan orang yang punya bakat alami, dan aku bukan orang yang 'selalu baik'. Aku adalah cerita tentang proses "terbentur, terbentur, terbentuk". Dan aku masih terus menulis.
+Jadi, siapa aku? Aku Ivant. Aku masih 'anak baik' dan 'pengamat manusia'. Tapi manual operasiku sudah diperbarui. 'Baik' versiku sekarang juga berarti 'baik' ke diriku sendiri. Dan 'daya tarik interpersonal'-ku yang baru adalah otentisitas, bukan lagi kepasifan yang 'nggak enakan'.
