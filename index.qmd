@@ -1,22 +1,19 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang
 
-![About Me](images/AZRL.png){width=950%}
+{width=300}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Selamat berjumpa.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Nama saya **Ivant Samuel Silaban**, mahasiswa Teknik Informatika di ITB. Portofolio ini adalah kumpulan dari refleksi diri dan komunikasi personal yang diolah melalui konsep-konsep *Identitas Naratif* dan *Komunikasi Interpersonal*.
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+Saya adalah anak dari keluarga yang sederhana, cendekia muda, dan seorang **INTP**—seorang *Logician*—yang kini sedang belajar menyeimbangkan *logika* yang menuntut kebenaran dengan *harmoni* yang menuntut kepekaan.
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+Karya ini adalah bukti proses "terbentur, terbentur, terbentuk" yang sedang saya jalani, dari menjadi *people-pleaser* hingga menjadi individu yang **resilien** dan berani menetapkan batasan.
 
+Silakan telusuri melalui menu navigasi di atas:
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
-
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
-
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
-
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+* **All About Me (UTS-1):** Konflik internal T vs. F.  
+* **My Song For You (UTS-1):** Lagu yang bermakna untukku. 
+* **My Stories (UTS-3):** Kisah tentang Agensi Melawan Siklus Kemalasan (P vs. J).  
+* **My SHAPE (UTS-4):** Sintesis analitis INTP/J.  
+* **My Personal Reviews (UTS-5):** Penilaian akhir terhadap keseluruhan karya ini.

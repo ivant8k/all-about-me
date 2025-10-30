@@ -5,7 +5,7 @@ Don't Stop Me Now
 Lirik by Freddie Mercury 
 Music: Queen
 
-![Queen](../images/photo1.jpeg){width=950%}
+![Queen](../images/photo1.jpg){width=950%}
 
 [Intro]
 Tonight, I'm gonna have myself a real good time
