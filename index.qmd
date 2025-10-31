@@ -1,7 +1,5 @@
 # Selamat Datang
 
-{width=300}
-
 Selamat berjumpa.
 
 Nama saya **Ivant Samuel Silaban**, mahasiswa Teknik Informatika di ITB. Portofolio ini adalah kumpulan dari refleksi diri dan komunikasi personal yang diolah melalui konsep-konsep *Identitas Naratif* dan *Komunikasi Interpersonal*.
