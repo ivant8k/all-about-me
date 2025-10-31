@@ -1,6 +1,8 @@
 # UTS-5: My Personal Review
 
-Laporan ini berisi telahan (review) personal untuk UTS-1, UTS-2, UTS-3, dan UTS-4. Bagian pertama adalah Self-Assessment yang dilakukan oleh dua model AI (Gemini dan ChatGPT) berdasarkan rubrik resmi. Bagian kedua adalah template untuk Peer-Assessment. Laporan ini di generate langsung dari Fitur Ekspor to Document dari Gemini.
+Laporan ini berisi telahan (review) personal untuk UTS-1, UTS-2, UTS-3, dan UTS-4. Bagian pertama adalah Self-Assessment yang dilakukan oleh dua model AI (Gemini) berdasarkan rubrik resmi. Bagian kedua adalah template untuk Peer-Assessment. Laporan ini di generate langsung dari Fitur Ekspor to Document dari Gemini.  
+
+Ringkasan dapat dilihat di: [UTS-5 Skor](./UTS-5_Skor.xlsx)
 
 ## **1\. Self-Assessment (AI \- Gemini)**
 
@@ -64,125 +66,138 @@ Berikut adalah analisis skor dan justifikasi untuk setiap UTS (versi final):
 * **Inspirasi (4/5):** Cukup inspiratif, tapi tujuannya lebih ke "wawasan" (insight) daripada "inspirasi" murni.  
 * **SKOR UTS-4: 4.75**
 
-### **UTS-5: My Personal Review (Penilaian Diri Sendiri)**
+**Rata-rata: 4.6875**
 
-(Rubrik: Pemahaman Konsep, Analisis Kritis, Argumentasi, Etos & Empati, Rekomendasi)
+## **3. Peer-Assessment 1**
 
-* **Pemahaman Konsep (5/5):** Penilaian ini menunjukkan pemahaman mendalam tentang konsep T/F, P/J, Kontaminasi, Agensi.  
-* **Analisis Kritis (5/5):** Analisis tajam dan objektif.  
-* **Argumentasi (Logos) (5/5):** Sangat logis. Semua skor didukung oleh bukti spesifik dari teks UTS 1-4.  
-* **Etos & Empati (5/5):** Kritis namun berimbang.  
-* **Rekomendasi Perbaikan (5/5):** Analisis ini (UTS-5) memberikan rekomendasi yang konkret.  
-* **SKOR UTS-5: 5.0**
-
-## **2\. Self-Assessment (AI \- ChatGPT)**
-
-*Catatan: Ini adalah penilaian dari ChatGPT, berdasarkan prompt yang kamu berikan.*
-
-### **Rekapitulasi Skor (ChatGPT)**
-
-| UTS | Kriteria Inti (Ringkasan Rubrik) | Skor (1-5) | Komentar & Catatan Reflektif |
-| :---- | :---- | :---- | :---- |
-| **UTS-1** | Orisinalitas • Keterlibatan • Humor • Wawasan | 4.75 | Sangat orisinal & reflektif; narasi “Tirani Harmoni” kuat & jujur; humor halus muncul di bagian “freeloader profesional”. |
-| **UTS-2** | Orisinalitas • Keterlibatan • Humor • Inspirasi | 4.0 | Lagu pilihan relevan & dikaitkan secara pribadi. Refleksi “Don’t Stop Me Now” menyentuh. |
-| **UTS-3** | Orisinalitas • Keterlibatan • Pengembangan Narasi • Inspirasi | 5.0 | Kisah “Siklus Terbentur, Terbentuk” sangat kuat. Alur logis, reflektif, dan inspiratif. |
-| **UTS-4** | Kelengkapan S-H-A-P-E • Koherensi • Narasi 90 detik • Rencana Aksi | 4.75 | SHAPE lengkap & konsisten. Piagam Diri jelas. |
-| **UTS-5** | Pemahaman Konsep • Analisis Kritis • Argumentasi • Etos & Empati • Rekomendasi | 5.0 | Refleksi komprehensif, logis, empatik, dan aplikatif. |
-
-### **Analisis Detail UTS-5 (ChatGPT)**
-
-| Kriteria | Skor (1-5) | Penilaian |
-| :---- | :---- | :---- |
-| Pemahaman Konsep Interpersonal | 5 | Pemahaman kuat terhadap konsep agensi, empati, konflik intrapersonal (T vs F, P vs J) dan penerapannya. |
-| Analisis Kritis Pesan | 5 | Menilai diri secara kritis tanpa sekadar menyalahkan orang lain ("Tirani Harmoni"). Analisis konsisten. |
-| Argumentasi (Logos) | 5 | Alur berpikir runtut dari pengalaman ke kesimpulan; dukungan argumen kuat dengan contoh konkret. |
-| Etos & Empati | 5 | Menjaga keseimbangan antara kejujuran diri dan empati. Menegaskan batas sehat. |
-| Rekomendasi Perbaikan | 5 | Jelas menyimpulkan “versi baru” dari diri: belajar berkata tidak, menegakkan agensi, menjaga harmoni yang sehat. |
-
-## **3\. Peer-Assessment 1 (Tanpa AI)**
-
-### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
+### LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS
 
 **Identifikasi**
 
-1. **Nama Mahasiswa dan NIM Penyusun TUGAS:** Ivant Samuel Silaban, 13523129  
-2. **Nama Penilai:** \[Isi Nama Peer 1\]
+1. Nama Mahasiswa dan NIM Penyusun TUGAS: Ivant Samuel Silaban, 13523129  
+2. Nama Penilai: Rafa Abdussalam
 
 **Tinjauan Umum**
 
-\[Isi Tinjauan Umum dari Peer 1\]
+Karya Ivant sangat kuat dari segi orisinalitas dan konsistensi narasi. Setiap tugas terasa personal, reflektif, dan mudah diikuti. Bahasa yang digunakan komunikatif dan insight yang diberikan sangat mendalam.
 
-**Tinjauan Spesifik & SKOR**
+**Tinjauan Spesifik & SKOR:**
 
-\[Isi Tinjauan Spesifik dari Peer 1 untuk UTS-1 s/d UTS-5\]
+- **UTS-1**
+  - Orisinalitas: 5 (Sangat unik, sudut pandang baru)
+  - Keterlibatan: 5 (Menarik dari awal hingga akhir)
+  - Humor: 4 (Beberapa momen lucu, relevan)
+  - Insight: 5 (Insight kuat, pemahaman mendalam)
+  - Skor: **4.75**
+- **UTS-2**
+  - Orisinalitas: 5 (Makna lagu sangat personal dan unik)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Humor: 4 (Cukup, beberapa bagian menghibur)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **4.75**
+- **UTS-3**
+  - Orisinalitas: 5 (Cerita sangat otentik dan segar)
+  - Keterlibatan: 5 (Konsisten menjaga atensi)
+  - Pengembangan Narasi: 5 (Sambung rapi, progres jelas)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **5.0**
+- **UTS-4**
+  - Orisinalitas: 5 (Analisis SHAPE sangat unik dan mendalam)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Pengembangan Narasi: 5 (Terstruktur, progresif)
+  - Inspirasi: 4 (Cukup menginspirasi)
+  - Skor: **4.75**
 
-\[Isi Saran Perbaikan dari Peer 1\]
+**Rata-rata: 4.8125**
 
-**SKOR (Tabel Ringkasan untuk Peer 1\)**
+---
 
-| UTS | Skor (skala 5\) |
-| :---- | :---- |
-| UTS-1 | \[Skor Peer 1\] |
-| UTS-2 | \[Skor Peer 1\] |
-| UTS-3 | \[Skor Peer 1\] |
-| UTS-4 | \[Skor Peer 1\] |
-| UTS-5 | \[Skor Peer 1\] |
+## **4. Peer-Assessment 2**
 
-## **4\. Peer-Assessment 2 (Tanpa AI)**
-
-### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
+### LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS
 
 **Identifikasi**
 
-1. **Nama Mahasiswa dan NIM Penyusun TUGAS:** Ivant Samuel Silaban, 13523129  
-2. **Nama Penilai:** \[Isi Nama Peer 2\]
+1. Nama Mahasiswa dan NIM Penyusun TUGAS: Ivant Samuel Silaban, 13523129  
+2. Nama Penilai: Muhammad Rizain Firdaus
 
 **Tinjauan Umum**
 
-\[Isi Tinjauan Umum dari Peer 2\]
+Tulisan Ivant sangat menarik dan mudah dipahami. Setiap bagian terasa personal dan penuh refleksi, insight yang diberikan sangat jelas dan aplikatif.
 
-**Tinjauan Spesifik & SKOR**
+**Tinjauan Spesifik & SKOR:**
 
-\[Isi Tinjauan Spesifik dari Peer 2 untuk UTS-1 s/d UTS-5\]
+- **UTS-1**
+  - Orisinalitas: 5 (Sangat unik, tidak klise)
+  - Keterlibatan: 4 (Menarik, beberapa bagian kuat)
+  - Humor: 4 (Beberapa momen lucu)
+  - Insight: 5 (Insight jelas dan mendalam)
+  - Skor: **4.5**
+- **UTS-2**
+  - Orisinalitas: 5 (Makna lagu sangat personal)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Humor: 4 (Cukup, beberapa bagian menghibur)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **4.75**
+- **UTS-3**
+  - Orisinalitas: 5 (Cerita otentik)
+  - Keterlibatan: 5 (Konsisten menjaga atensi)
+  - Pengembangan Narasi: 4 (Terstruktur, ada sedikit jeda)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **4.75**
+- **UTS-4**
+  - Orisinalitas: 5 (Analisis SHAPE sangat baik)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Pengembangan Narasi: 5 (Terstruktur)
+  - Inspirasi: 4 (Cukup menginspirasi)
+  - Skor: **4.75**
 
-\[Isi Saran Perbaikan dari Peer 2\]
+**Rata-rata: 4.75**
 
-**SKOR (Tabel Ringkasan untuk Peer 2\)**
+---
 
-| UTS | Skor (skala 5\) |
-| :---- | :---- |
-| UTS-1 | \[Skor Peer 2\] |
-| UTS-2 | \[Skor Peer 2\] |
-| UTS-3 | \[Skor Peer 2\] |
-| UTS-4 | \[Skor Peer 2\] |
-| UTS-5 | \[Skor Peer 2\] |
+## **5. Peer-Assessment 3**
 
-## **5\. Peer-Assessment 3 (Tanpa AI \- Bonus)**
-
-### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
+### LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS
 
 **Identifikasi**
 
-1. **Nama Mahasiswa dan NIM Penyusun TUGAS:** Ivant Samuel Silaban, 13523129  
-2. **Nama Penilai:** \[Isi Nama Peer 3\]
+1. Nama Mahasiswa dan NIM Penyusun TUGAS: Ivant Samuel Silaban, 13523129  
+2. Nama Penilai: Andi Farhan
 
 **Tinjauan Umum**
 
-\[Isi Tinjauan Umum dari Peer 3\]
+Karya Ivant sangat menginspirasi dan penuh makna. Setiap tugas menunjukkan perkembangan karakter dan pemikiran yang matang. Bahasa yang digunakan juga sangat komunikatif.
 
-**Tinjauan Spesifik & SKOR**
+**Tinjauan Spesifik & SKOR:**
 
-\[Isi Tinjauan Spesifik dari Peer 3 untuk UTS-1 s/d UTS-5\]
+- **UTS-1**
+  - Orisinalitas: 5 (Sangat unik, sudut pandang baru)
+  - Keterlibatan: 5 (Menarik dari awal hingga akhir)
+  - Humor: 4 (Cukup, beberapa bagian menghibur)
+  - Insight: 5 (Insight kuat)
+  - Skor: **4.75**
+- **UTS-2**
+  - Orisinalitas: 5 (Makna lagu sangat personal)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Humor: 4 (Cukup, beberapa bagian menghibur)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **4.75**
+- **UTS-3**
+  - Orisinalitas: 5 (Cerita otentik dan segar)
+  - Keterlibatan: 5 (Konsisten menjaga atensi)
+  - Pengembangan Narasi: 5 (Sambung rapi, progres jelas)
+  - Inspirasi: 4 (Cukup menginspirasi)
+  - Skor: **4.75**
+- **UTS-4**
+  - Orisinalitas: 5 (Analisis SHAPE sangat baik)
+  - Keterlibatan: 5 (Sangat memikat)
+  - Pengembangan Narasi: 5 (Terstruktur)
+  - Inspirasi: 5 (Sangat menginspirasi)
+  - Skor: **5.0**
 
-\[Isi Saran Perbaikan dari Peer 3\]
+**Rata-rata: 4.8125**
 
-**SKOR (Tabel Ringkasan untuk Peer 3\)**
+## **6.Rekap Skor Ringkas**
 
-| UTS | Skor (skala 5\) |
-| :---- | :---- |
-| UTS-1 | \[Skor Peer 3\] |
-| UTS-2 | \[Skor Peer 3\] |
-| UTS-3 | \[Skor Peer 3\] |
-| UTS-4 | \[Skor Peer 3\] |
-| UTS-5 | \[Skor Peer 3\] |
 
