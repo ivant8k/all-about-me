@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +222,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#kesimpulan-pengetahuan" id="toc-kesimpulan-pengetahuan" class="nav-link active" data-scroll-target="#kesimpulan-pengetahuan"><span class="header-section-number">10.1</span> Kesimpulan Pengetahuan</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,9 +253,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis <a href="Rekomendasi Presentasi Efektif(Contoh Makalah).pdf">makalah sebagai bahan utama</a> 2) lalu saya buat <a href="Contoh Transkrip Presentasi.pdf">transkrip ucapan lisan</a> 3) kemudian saya kembangkan <a href="Rekomendasi Presentasi (Contoh Slides).pdf">slide pendukung trnsskrip</a> 4) lalu saya memproduksivideo audio visual </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<p>Untuk mewujudkan Masterpiece TerraGuard, diperlukan penguasaan pengetahuan teknis yang melampaui manajemen basis data konvensional. Landasan ini mencakup arsitektur kecerdasan buatan, protokol komunikasi IoT, dan teori sistem terdistribusi untuk memastikan ketahanan bagi 3,6 miliar penduduk di wilayah sangat rentan.</p>
+<p><strong>1. Arsitektur AI Preskriptif: Deep Learning dan Pemodelan Risiko</strong><br>
+Berbeda dengan AI prediktif yang hanya meramalkan kejadian, AI preskriptif dalam TerraGuard menggunakan pengetahuan untuk memberikan solusi aksi.</p>
+<ul>
+<li><strong>Analisis Deret Waktu (Time-Series Analysis):</strong> Menggunakan arsitektur Recurrent Neural Networks (RNN) atau Long Short-Term Memory (LSTM) untuk memproses pola cuaca jangka panjang guna mendeteksi anomali suhu global.<br>
+</li>
+<li><strong>Integrasi Data IPCC:</strong> Sistem menggunakan algoritma pemrosesan bahasa alami (NLP) untuk mengekstrak parameter risiko dari Laporan Penilaian Keenam IPCC sebagai basis aturan (rule-based) dalam pengambilan keputusan otomatis.<br>
+</li>
+<li><strong>Pemodelan Dampak Multiplikator:</strong> Pengetahuan tentang bagaimana kenaikan suhu berdampak pada produksi pangan (mempengaruhi 2,33 miliar orang yang mengalami kerawanan pangan) diintegrasikan ke dalam model regresi linier dan non-linier untuk memprediksi eskalasi krisis.</li>
+</ul>
+<p><strong>2. Rekayasa IoT dan Pemantauan Kualitas Udara</strong><br>
+Sistem ini membutuhkan pengetahuan mendalam mengenai sensor lingkungan untuk melindungi 99% populasi global yang menghirup udara tidak sehat.</p>
+<ul>
+<li><strong>Sensor PM2.5 dan <span class="math inline">\(NO_{2}\)</span>:</strong> Pengetahuan teknis tentang kalibrasi sensor kimia dan partikulat diperlukan untuk akurasi data yang akan memitigasi 7 juta kematian dini per tahun akibat polusi udara.<br>
+</li>
+<li><strong>Protokol LPWAN (Low-Power Wide-Area Network):</strong> Pengetahuan tentang transmisi data jarak jauh dengan daya rendah (seperti LoRaWAN) sangat krusial agar stasiun pemantau tetap aktif di daerah terpencil yang tidak memiliki infrastruktur listrik stabil.</li>
+</ul>
+<p><strong>3. Sistem Terdistribusi dan Resiliensi Jaringan</strong> Karena perubahan iklim memicu bencana yang menghancurkan infrastruktur pusat, sistem informasi harus dirancang secara desentralisasi.</p>
+<ul>
+<li><strong>Edge Computing:</strong> Memproses data secara lokal di tingkat komunitas untuk memberikan peringatan dini instan tanpa bergantung pada latensi cloud pusat.<br>
+</li>
+<li><strong>Protokol Konsensus:</strong> Penggunaan algoritma konsensus dalam jaringan mesh untuk memastikan validitas data antar sensor, mencegah informasi palsu yang dapat memicu kepanikan massal pada 4,5 miliar orang yang berisiko terkena cuaca ekstrem.<br>
+</li>
+<li><strong>Manajemen Pengungsian Digital:</strong> Pengetahuan tentang sistem informasi geografis (GIS) digunakan untuk mengoordinasikan rute evakuasi bagi 45,8 juta pengungsi iklim secara dinamis.</li>
+</ul>
+<p><strong>4. Standar dan Protokol Global (SDG &amp; Perjanjian Paris)</strong><br>
+Pengetahuan tentang kebijakan internasional menjadi “pemandu moral” bagi algoritma sistem.</p>
+<ul>
+<li><strong>Target SDG 13 (Climate Action):</strong> Rekayasa sistem diarahkan untuk memenuhi indikator pengurangan emisi dan peningkatan kapasitas adaptasi.<br>
+</li>
+<li><strong>Ambang Batas <span class="math inline">\(1.5-2^{\circ}C\)</span>:</strong> Menjadi variabel kontrol utama dalam sistem informasi untuk mengevaluasi efektivitas aksi mitigasi yang dilakukan oleh komunitas lokal.</li>
+</ul>
+<section id="kesimpulan-pengetahuan" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="kesimpulan-pengetahuan"><span class="header-section-number">10.1</span> Kesimpulan Pengetahuan</h2>
+<p>Penguasaan teknologi informasi di era AI untuk krisis iklim memerlukan sinergi antara <strong>Data Science</strong> (untuk pemahaman risiko), <strong>Internet of Things</strong> (untuk pemantauan nyata), dan <strong>ekayasa Perangkat Lunak Terdistribusi</strong> (untuk ketahanan sistem). Tanpa landasan pengetahuan ini, sistem informasi hanya akan menjadi alat pencatat bencana, bukan instrumen penyelamatan nyawa.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

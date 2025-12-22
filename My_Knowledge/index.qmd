@@ -1,7 +1,32 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+Untuk mewujudkan Masterpiece TerraGuard, diperlukan penguasaan pengetahuan teknis yang melampaui manajemen basis data konvensional. Landasan ini mencakup arsitektur kecerdasan buatan, protokol komunikasi IoT, dan teori sistem terdistribusi untuk memastikan ketahanan bagi 3,6 miliar penduduk di wilayah sangat rentan.  
+
+**1. Arsitektur AI Preskriptif: Deep Learning dan Pemodelan Risiko**  
+Berbeda dengan AI prediktif yang hanya meramalkan kejadian, AI preskriptif dalam TerraGuard menggunakan pengetahuan untuk memberikan solusi aksi.  
+
+- **Analisis Deret Waktu (Time-Series Analysis):** Menggunakan arsitektur Recurrent Neural Networks (RNN) atau Long Short-Term Memory (LSTM) untuk memproses pola cuaca jangka panjang guna mendeteksi anomali suhu global.  
+- **Integrasi Data IPCC:** Sistem menggunakan algoritma pemrosesan bahasa alami (NLP) untuk mengekstrak parameter risiko dari Laporan Penilaian Keenam IPCC sebagai basis aturan (rule-based) dalam pengambilan keputusan otomatis.  
+- **Pemodelan Dampak Multiplikator:** Pengetahuan tentang bagaimana kenaikan suhu berdampak pada produksi pangan (mempengaruhi 2,33 miliar orang yang mengalami kerawanan pangan) diintegrasikan ke dalam model regresi linier dan non-linier untuk memprediksi eskalasi krisis.  
+
+**2. Rekayasa IoT dan Pemantauan Kualitas Udara**  
+Sistem ini membutuhkan pengetahuan mendalam mengenai sensor lingkungan untuk melindungi 99% populasi global yang menghirup udara tidak sehat.  
+
+- **Sensor PM2.5 dan $NO_{2}$:** Pengetahuan teknis tentang kalibrasi sensor kimia dan partikulat diperlukan untuk akurasi data yang akan memitigasi 7 juta kematian dini per tahun akibat polusi udara.  
+- **Protokol LPWAN (Low-Power Wide-Area Network):** Pengetahuan tentang transmisi data jarak jauh dengan daya rendah (seperti LoRaWAN) sangat krusial agar stasiun pemantau tetap aktif di daerah terpencil yang tidak memiliki infrastruktur listrik stabil.
+
+**3. Sistem Terdistribusi dan Resiliensi Jaringan** 
+Karena perubahan iklim memicu bencana yang menghancurkan infrastruktur pusat, sistem informasi harus dirancang secara desentralisasi.  
+
+- **Edge Computing:** Memproses data secara lokal di tingkat komunitas untuk memberikan peringatan dini instan tanpa bergantung pada latensi cloud pusat.  
+- **Protokol Konsensus:** Penggunaan algoritma konsensus dalam jaringan mesh untuk memastikan validitas data antar sensor, mencegah informasi palsu yang dapat memicu kepanikan massal pada 4,5 miliar orang yang berisiko terkena cuaca ekstrem.  
+- **Manajemen Pengungsian Digital:** Pengetahuan tentang sistem informasi geografis (GIS) digunakan untuk mengoordinasikan rute evakuasi bagi 45,8 juta pengungsi iklim secara dinamis.  
+
+**4. Standar dan Protokol Global (SDG & Perjanjian Paris)**  
+Pengetahuan tentang kebijakan internasional menjadi "pemandu moral" bagi algoritma sistem.  
+
+- **Target SDG 13 (Climate Action):** Rekayasa sistem diarahkan untuk memenuhi indikator pengurangan emisi dan peningkatan kapasitas adaptasi.  
+- **Ambang Batas $1.5-2^{\circ}C$:** Menjadi variabel kontrol utama dalam sistem informasi untuk mengevaluasi efektivitas aksi mitigasi yang dilakukan oleh komunitas lokal.    
+
+## Kesimpulan Pengetahuan
+Penguasaan teknologi informasi di era AI untuk krisis iklim memerlukan sinergi antara **Data Science** (untuk pemahaman risiko), **Internet of Things** (untuk pemantauan nyata), dan **Rekayasa Perangkat Lunak Terdistribusi** (untuk ketahanan sistem). Tanpa landasan pengetahuan ini, sistem informasi hanya akan menjadi alat pencatat bencana, bukan instrumen penyelamatan nyawa.

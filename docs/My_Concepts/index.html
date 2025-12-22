@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +222,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#kerangka-konseptual" id="toc-kerangka-konseptual" class="nav-link active" data-scroll-target="#kerangka-konseptual"><span class="header-section-number">7.1</span> Kerangka Konseptual</a></li>
+  <li><a href="#kesimpulan-konsep" id="toc-kesimpulan-konsep" class="nav-link" data-scroll-target="#kesimpulan-konsep"><span class="header-section-number">7.2</span> Kesimpulan Konsep</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,11 +254,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Mau hidup epik ? <a href="lifestory.pdf">Write your Life Story</a></p>
-<p>Apa itu berkonsep?</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Masterpiece ini adalah sistem informasi sosio-teknis yang dirancang untuk mengatasi perubahan iklim sebagai <strong>ancaman multiplikator</strong> yang memperburuk kelaparan, kemiskinan, dan konflik. Fokus utamanya adalah melindungi 3,6 miliar jiwa (45% populasi global) yang tinggal di wilayah sangat rentan dan 4,5 miliar orang yang berisiko tinggi terhadap cuaca ekstrem.</p>
+<section id="kerangka-konseptual" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="kerangka-konseptual"><span class="header-section-number">7.1</span> Kerangka Konseptual</h2>
+<p>Konsep ini membagi sistem menjadi tiga pilar intelegensi yang bekerja secara sinkron untuk mewujudkan target ambang batas suhu di bawah <span class="math inline">\(1.5-2^{\circ}C\)</span> sesuai Perjanjian Paris.</p>
+<p><strong>1. Intelegensi Etis: Keadilan Iklim (Climate Justice)</strong><br>
+Pilar ini berfungsi sebagai penentu prioritas aksi.</p>
+<ul>
+<li><p><strong>Masalah:</strong> Negara kepulauan dan komunitas miskin menderita dampak paling parah meskipun kontribusi emisi mereka sangat kecil.</p></li>
+<li><p><strong>Solusi Konseptual:</strong> Sistem dirancang untuk memberikan prioritas alokasi sumber daya kepada 45,8 juta orang yang terpaksa mengungsi akibat bencana cuaca. Nilai utama sistem ini bukan efisiensi ekonomi semata, melainkan perlindungan nyawa pada kelompok paling rentan.</p></li>
+</ul>
+<p><strong>2. Intelegensi Sintetis: Pemrosesan Data Masif &amp; Prediksi Akurat </strong> Pilar ini menggunakan AI sebagai instrumen kognitif untuk mengelola kompleksitas data iklim yang mustahil diproses secara manual.</p>
+<ul>
+<li><p><strong>Mekanisme</strong>: Mengintegrasikan data dari Laporan Penilaian Keenam IPCC dan Working Paper Bank Dunia.</p></li>
+<li><p><strong>Fungsi:</strong> AI bertindak sebagai mesin peringatan dini yang mendeteksi risiko banjir, gelombang panas, dan siklon secara real-time. AI mengubah data abstrak menjadi langkah mitigasi taktis yang dapat dipahami oleh penduduk lokal.</p></li>
+</ul>
+<p><strong>3. Intelegensi Operasional: Manajemen Sumber Daya Regeneratif </strong> Pilar ini mengelola energi dan material fisik untuk memastikan keberlanjutan tanpa merusak ekosistem yang menjadi penyerap karbon alami.</p>
+<ul>
+<li><p><strong>Fungsi:</strong> Mengoordinasikan distribusi air bersih (bagi 2 miliar orang yang terancam krisis air ) dan pangan di tengah kegagalan panen akibat cuaca ekstrem.</p></li>
+<li><p><strong>Output:</strong> Menciptakan sistem yang mampu memitigasi dampak perubahan iklim sebelum menjadi pemicu migrasi paksa atau konflik atas sumber daya yang menipis.</p></li>
+</ul>
+</section>
+<section id="kesimpulan-konsep" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="kesimpulan-konsep"><span class="header-section-number">7.2</span> Kesimpulan Konsep</h2>
+<p><strong>Sentry-Planet</strong> bukan sekadar aplikasi pemantau cuaca, melainkan platform koordinasi global yang memungkinkan 8,2 miliar manusia untuk tidak lagi menjadi korban pasif. Sistem ini mengubah informasi dari laporan ilmiah menjadi aksi nyata yang terdistribusi, memastikan bahwa kemajuan teknologi informasi di era AI digunakan sepenuhnya untuk menjaga keberlangsungan hidup manusia di planet yang memanas.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -632,8 +690,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-3 My Opinions">
-        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-2 My Opinions">
+        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

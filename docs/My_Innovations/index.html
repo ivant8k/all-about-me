@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +222,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#arsitektur-operasional-terraguard" id="toc-arsitektur-operasional-terraguard" class="nav-link active" data-scroll-target="#arsitektur-operasional-terraguard"><span class="header-section-number">9.1</span> Arsitektur Operasional TerraGuard</a></li>
+  <li><a href="#dampak-dan-keberlanjutan" id="toc-dampak-dan-keberlanjutan" class="nav-link" data-scroll-target="#dampak-dan-keberlanjutan"><span class="header-section-number">9.2</span> Dampak dan Keberlanjutan</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,8 +254,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><strong>Judul: TerraGuard: Sistem Koordinasi Mitigasi dan Resiliensi Otonom</strong></p>
+<p>Inovasi ini adalah sebuah sistem informasi end-to-end yang mengalihkan fungsi teknologi dari sekadar pemantauan menjadi <strong>orkestrasi aksi otomatis</strong>. TerraGuard dirancang untuk menutup celah koordinasi yang selama ini menyebabkan 45,8 juta orang terpaksa mengungsi akibat bencana cuaca dalam satu tahun. Sistem ini bekerja dengan mengintegrasikan data lingkungan masif ke dalam protokol aksi yang terdesentralisasi</p>
+<section id="arsitektur-operasional-terraguard" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="arsitektur-operasional-terraguard"><span class="header-section-number">9.1</span> Arsitektur Operasional TerraGuard</h2>
+<p><strong>1. Hyper-Local Sensing Mesh (Infrastruktur Data)</strong><br>
+Inovasi ini dimulai dengan penyebaran jaringan sensor mandiri di wilayah-wilayah dengan kerentanan tinggi, tempat 3,6 miliar orang tinggal saat ini.</p>
+<ul>
+<li><strong>Fungsi:</strong> Sensor ini memantau kualitas udara secara real-time—mengingat 99% populasi global saat ini menghirup udara yang tidak sehat —serta parameter krusial lainnya seperti kelembaban tanah dan permukaan air laut.<br>
+</li>
+<li><strong>Keunggulan:</strong> Menggunakan teknologi low-power wide-area network (LPWAN) agar tetap berfungsi saat infrastruktur komunikasi publik hancur akibat bencana.</li>
+</ul>
+<p><strong>2. AI Prescriptive Engine (Otak Orkestrasi)</strong><br>
+Berbeda dengan AI prediktif biasa, mesin ini tidak hanya meramal bencana, tetapi <strong>menentukan dan mengeksekusi urutan aksi mitigasi</strong>.</p>
+<ul>
+<li><strong>Analisis Risiko:</strong> Mesin memproses data untuk melindungi 4,5 miliar orang yang berisiko tinggi terkena cuaca ekstrem seperti banjir bandang dan gelombang panas.</li>
+<li><strong>Otomasi Logistik:</strong> Jika ambang batas risiko terlampaui, AI secara otomatis memicu perintah pengiriman cadangan air bersih (untuk 2 miliar orang yang terancam krisis air ) dan mengalokasikan sumber daya energi ke fasilitas medis darurat tanpa menunggu birokrasi manual.</li>
+</ul>
+<p><strong>3. Decentralized Mitigation Protocol (Alur Kerja Respons)</strong><br>
+Sistem ini menggunakan protokol 5 langkah untuk memastikan respons yang cepat dan tepat sasaran:</p>
+<ol type="1">
+<li><strong>Detection (Deteksi):</strong> Identifikasi dini guncangan iklim melalui sensor <em>mesh</em>.</li>
+<li><strong>Verification (Verifikasi):</strong> Validasi data melalui citra satelit dan laporan komunitas.<br>
+</li>
+<li><strong>Prescription (Preskripsi):</strong> AI merancang rencana evakuasi dan perlindungan sumber daya pangan.<br>
+</li>
+<li><strong>Execution (Eksekusi):</strong> Aktivasi peringatan dini dan mobilisasi aset bantuan otomatis.<br>
+</li>
+<li><strong>Recovery (Pemulihan):</strong> Koordinasi pembangunan kembali yang tahan iklim untuk mencegah migrasi paksa di masa depan.</li>
+</ol>
+<p><strong>4. Citizen-Agency Interface (Pemberdayaan Masyarakat)</strong><br>
+Untuk mendukung 8,2 miliar penduduk dunia agar menjadi aktor aktif, sistem ini menyediakan aplikasi yang memberikan panduan langkah demi langkah berdasarkan lokasi geografis pengguna.</p>
+<ul>
+<li><strong>Edukasi Taktis:</strong> Memberikan instruksi spesifik tentang cara menjaga ketersediaan pangan dan air minum yang aman di tengah ketidakstabilan akses.<br>
+</li>
+<li><strong>Insentif Aksi:</strong>Memberikan penghargaan digital bagi komunitas yang berhasil melakukan restorasi lingkungan atau penghematan energi secara terverifikasi.</li>
+</ul>
+</section>
+<section id="dampak-dan-keberlanjutan" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="dampak-dan-keberlanjutan"><span class="header-section-number">9.2</span> Dampak dan Keberlanjutan</h2>
+<p>Dengan mengotomatisasi koordinasi, TerraGuard bertujuan untuk menekan angka kematian dini akibat polusi udara yang mencapai 7 juta jiwa per tahun 9dan meminimalisir dampak ekonomi bagi 2,33 miliar orang yang mengalami kerawanan pangan10. Inovasi ini memastikan bahwa sistem informasi bukan lagi beban biaya, melainkan investasi strategis untuk menjaga agar suhu global tetap berada di bawah ambang batas kritis <span class="math inline">\(1.5-2^{\circ}C\)</span>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -624,8 +701,8 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-3 My Opinions">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span>
+      <a href="../My_Opinions/index.html" class="pagination-link" aria-label="UAS-2 My Opinions">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

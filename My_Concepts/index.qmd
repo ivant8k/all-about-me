@@ -1,6 +1,31 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+Masterpiece ini adalah sistem informasi sosio-teknis yang dirancang untuk mengatasi perubahan iklim sebagai **ancaman multiplikator** yang memperburuk kelaparan, kemiskinan, dan konflik. Fokus utamanya adalah melindungi 3,6 miliar jiwa (45% populasi global) yang tinggal di wilayah sangat rentan dan 4,5 miliar orang yang berisiko tinggi terhadap cuaca ekstrem.
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+## Kerangka Konseptual
+Konsep ini membagi sistem menjadi tiga pilar intelegensi yang bekerja secara sinkron untuk mewujudkan target ambang batas suhu di bawah $1.5-2^{\circ}C$ sesuai Perjanjian Paris.  
+
+**1. Intelegensi Etis: Keadilan Iklim (Climate Justice)**  
+Pilar ini berfungsi sebagai penentu prioritas aksi.
+
+- **Masalah:** Negara kepulauan dan komunitas miskin menderita dampak paling parah meskipun kontribusi emisi mereka sangat kecil.
+
+- **Solusi Konseptual:** Sistem dirancang untuk memberikan prioritas alokasi sumber daya kepada 45,8 juta orang yang terpaksa mengungsi akibat bencana cuaca. Nilai utama sistem ini bukan efisiensi ekonomi semata, melainkan perlindungan nyawa pada kelompok paling rentan.
+
+**2. Intelegensi Sintetis: Pemrosesan Data Masif & Prediksi Akurat ** 
+Pilar ini menggunakan AI sebagai instrumen kognitif untuk mengelola kompleksitas data iklim yang mustahil diproses secara manual.
+
+- **Mekanisme**: Mengintegrasikan data dari Laporan Penilaian Keenam IPCC dan Working Paper Bank Dunia.
+
+- **Fungsi:** AI bertindak sebagai mesin peringatan dini yang mendeteksi risiko banjir, gelombang panas, dan siklon secara real-time. AI mengubah data abstrak menjadi langkah mitigasi taktis yang dapat dipahami oleh penduduk lokal.
+
+**3. Intelegensi Operasional: Manajemen Sumber Daya Regeneratif ** 
+Pilar ini mengelola energi dan material fisik untuk memastikan keberlanjutan tanpa merusak ekosistem yang menjadi penyerap karbon alami.
+
+- **Fungsi:** Mengoordinasikan distribusi air bersih (bagi 2 miliar orang yang terancam krisis air ) dan pangan di tengah kegagalan panen akibat cuaca ekstrem.
+
+- **Output:** Menciptakan sistem yang mampu memitigasi dampak perubahan iklim sebelum menjadi pemicu migrasi paksa atau konflik atas sumber daya yang menipis.
+
+## Kesimpulan Konsep
+
+**Sentry-Planet** bukan sekadar aplikasi pemantau cuaca, melainkan platform koordinasi global yang memungkinkan 8,2 miliar manusia  untuk tidak lagi menjadi korban pasif. Sistem ini mengubah informasi dari laporan ilmiah menjadi aksi nyata yang terdistribusi, memastikan bahwa kemajuan teknologi informasi di era AI digunakan sepenuhnya untuk menjaga keberlangsungan hidup manusia di planet yang memanas.

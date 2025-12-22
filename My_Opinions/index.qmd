@@ -1,5 +1,21 @@
-## UAS-3 My Opinions
+## UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+Penerapan Sistem Informasi dan AI dalam menghadapi perubahan iklim saat ini terjebak dalam paradigma yang salah: kita terlalu fokus pada pemantauan (monitoring) dan abai pada orkestrasi aksi. Berikut adalah analisis kritis mengenai arah rekayasa sistem informasi di era AI untuk menghadapi krisis ini.
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+## Krisis Koordinasi, Bukan Krisis Informasi
+Masalah utama saat ini bukanlah kurangnya data. Kita sudah tahu bahwa 3,6 miliar orang tinggal di wilayah yang sangat rentan. Kita juga memiliki data bahwa lebih dari separuh penduduk Bumi (~4,5 miliar orang) berisiko tinggi mengalami cuaca ekstrem.  
+
+Namun, sistem informasi saat ini masih bersifat pasif. AI hanya digunakan sebagai "Juru Tulis Cerdas" yang melaporkan bahwa 45,8 juta orang telah mengungsi akibat bencana cuaca pada tahun 2024. Menggunakan teknologi tercanggih hanya untuk mencatat kehancuran adalah kegagalan rekayasa yang fatal. Sistem informasi harus berevolusi dari sekadar pelapor menjadi mesin penggerak yang menghubungkan titik risiko dengan sumber daya mitigasi secara otomatis.  
+
+## AI sebagai Mandat Operasional, Bukan Pilihan
+Perubahan iklim berfungsi sebagai "ancaman multiplikator" yang memperburuk kelaparan, kemiskinan, dan konflik4. Dalam kondisi di mana krisis saling terkait, kemampuan pemrosesan manusia tidak lagi memadai.  
+
+Rekayasa sistem informasi di era AI wajib mengambil alih fungsi koordinasi kompleks yang selama ini gagal dilakukan secara manual. AI harus memaksa setiap keputusan pembangunan untuk selaras dengan target penekanan suhu di bawah $1.5-2^{\circ}C$ sesuai Perjanjian Paris5. Jika AI tidak diberikan otoritas untuk mengintervensi alur kerja distribusi logistik atau manajemen air di wilayah yang terancam krisis air (yang berdampak pada 2 miliar orang), maka sistem tersebut gagal memenuhi fungsi fundamentalnya sebagai alat pertahanan manusia6.
+
+## Demokratisasi Agensi melalui Sistem Terdistribusi
+Satu-satunya cara untuk menghadapi krisis yang berdampak pada seluruh penduduk dunia adalah dengan memberikan "Agensi" (daya pilih dan aksi) kepada individu.  
+
+Sistem informasi tidak boleh sentralistik. Masterpiece seperti **Sentry-Planet** harus mampu mendistribusikan instruksi teknis kepada komunitas lokal di negara kepulauan atau wilayah miskin yang paling merasakan dampaknya, meskipun kontribusi emisi mereka kecil. Pendekatan rekayasa harus bergeser dari "menyelesaikan masalah untuk orang lain" menjadi "merancang sistem yang memungkinkan orang lain menyelamatkan diri mereka sendiri.
+
+## Kesimpulan
+Tanpa pergeseran radikal menuju sistem orkestrasi otomatis, AI hanya akan menjadi saksi bisu atas mundurnya kemajuan kemanusiaan. Masterpiece rekayasa sejati adalah sistem yang mampu mengubah setiap bit data iklim menjadi tindakan mitigasi yang menyelamatkan nyawa sebelum bencana terjadi.

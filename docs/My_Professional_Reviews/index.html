@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +222,21 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#self-assessment-ai---gemini" id="toc-self-assessment-ai---gemini" class="nav-link active" data-scroll-target="#self-assessment-ai---gemini"><span class="header-section-number">11.1</span> <strong>Self-Assessment (AI - Gemini)</strong></a>
+  <ul class="collapse">
+  <li><a href="#uas-1-my-concept-sentry-planet" id="toc-uas-1-my-concept-sentry-planet" class="nav-link" data-scroll-target="#uas-1-my-concept-sentry-planet"><span class="header-section-number">11.1.1</span> UAS-1: My Concept (Sentry-Planet)</a></li>
+  <li><a href="#uas-2-my-opinion-kegagalan-manajemen-krisis" id="toc-uas-2-my-opinion-kegagalan-manajemen-krisis" class="nav-link" data-scroll-target="#uas-2-my-opinion-kegagalan-manajemen-krisis"><span class="header-section-number">11.1.2</span> UAS-2: My Opinion (Kegagalan Manajemen Krisis)</a></li>
+  <li><a href="#uas-3-my-innovation-terraguard" id="toc-uas-3-my-innovation-terraguard" class="nav-link" data-scroll-target="#uas-3-my-innovation-terraguard"><span class="header-section-number">11.1.3</span> UAS-3: My Innovation (TerraGuard)</a></li>
+  <li><a href="#uas-4-my-knowledge-landasan-teknis-terraguard" id="toc-uas-4-my-knowledge-landasan-teknis-terraguard" class="nav-link" data-scroll-target="#uas-4-my-knowledge-landasan-teknis-terraguard"><span class="header-section-number">11.1.4</span> UAS-4: My Knowledge (Landasan Teknis TerraGuard)</a></li>
+  <li><a href="#final-score" id="toc-final-score" class="nav-link" data-scroll-target="#final-score"><span class="header-section-number">11.1.5</span> Final Score</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,9 +260,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Untuk melAkukan review, seperti pada <a href="../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf">pendekatan AI</a>, kita membutuhkan rubrik</p>
+<p>Laporan ini berisi telahan (review) personal untuk UAS-1, UAS-2, UAS-3, dan UAS-4. Bagian pertama adalah Self-Assessment yang dilakukan oleh dua model AI (Gemini) berdasarkan rubrik resmi. Bagian kedua adalah template untuk Peer-Assessment. Laporan ini di generate langsung dari Fitur Ekspor to Document dari Gemini.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1aBEY_nFLekKzj8NWqjGLtclp3MAagh4s/edit?usp=sharing&amp;ouid=106681560138166355842&amp;rtpof=true&amp;sd=true">Penilaian Peer (Google Spreadsheet)</a></p>
+<section id="self-assessment-ai---gemini" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="self-assessment-ai---gemini"><span class="header-section-number">11.1</span> <strong>Self-Assessment (AI - Gemini)</strong></h2>
+<section id="uas-1-my-concept-sentry-planet" class="level3" data-number="11.1.1">
+<h3 data-number="11.1.1" class="anchored" data-anchor-id="uas-1-my-concept-sentry-planet"><span class="header-section-number">11.1.1</span> UAS-1: My Concept (Sentry-Planet)</h3>
+<ul>
+<li><strong>Clarity (5/5):</strong> Konsep “Sentry-Planet” disajikan tanpa ambiguitas dengan membagi peran intelegensi etis, sintetis, dan operasional secara jelas</li>
+<li><strong>Logic (5/5):</strong> Alur penalaran sangat koheren, menghubungkan data krisis dari laporan IPCC dengan kebutuhan koordinasi global secara sistematis<br>
+</li>
+<li><strong>Validity (4/5):</strong> Argumen didukung data kuat mengenai 3,6 miliar orang di wilayah rentan, meskipun validasi teknis pada skala global masih memerlukan bukti empiris lebih lanjut<br>
+</li>
+<li><strong>Usefulness (5/5):</strong> Konsep ini memiliki aplikasi praktis yang sangat tinggi untuk mencapai target Perjanjian Paris menekan suhu di bawah <span class="math inline">\(1.5-2^{\circ}C\)</span></li>
+</ul>
+<p><strong>Rata-rata skor UAS-1: 4,75/5</strong></p>
+</section>
+<section id="uas-2-my-opinion-kegagalan-manajemen-krisis" class="level3" data-number="11.1.2">
+<h3 data-number="11.1.2" class="anchored" data-anchor-id="uas-2-my-opinion-kegagalan-manajemen-krisis"><span class="header-section-number">11.1.2</span> UAS-2: My Opinion (Kegagalan Manajemen Krisis)</h3>
+<ul>
+<li><strong>Compelling (5/5):</strong> Opini ini segera menangkap perhatian dengan mengkritik “kelumpuhan data” di tengah fakta 45,8 juta pengungsi iklim.<br>
+</li>
+<li><strong>Informative (4/5):</strong> Menyediakan informasi relevan mengenai risiko cuaca ekstrem pada 4,5 miliar orang, namun detail pada aspek kendala birokrasi masih bersifat umum.<br>
+</li>
+<li><strong>Persuasive (5/5):</strong> Argumen bahwa AI harus menjadi orkestrator tindakan, bukan sekadar pelapor, didukung logika yang sangat meyakinkan.</li>
+<li><strong>Engaging (5/5):</strong> Tulisan ini mendorong pembaca untuk terlibat secara intelektual dalam mempertimbangkan agensi manusia di era otomatisasi.</li>
+</ul>
+<p>Rata-rata skor UAS-2: 4,75/5</p>
+</section>
+<section id="uas-3-my-innovation-terraguard" class="level3" data-number="11.1.3">
+<h3 data-number="11.1.3" class="anchored" data-anchor-id="uas-3-my-innovation-terraguard"><span class="header-section-number">11.1.3</span> UAS-3: My Innovation (TerraGuard)</h3>
+<ul>
+<li><strong>Clarity (5/5):</strong> Penjelasan mengenai arsitektur Hyper-Local Sensing Mesh dan AI Prescriptive Engine sangat jernih dan mudah dipahami.<br>
+</li>
+<li><strong>Logic (5/5):</strong> Protokol 5 langkah (Detection hingga Recovery) mengikuti struktur pemecahan masalah rekayasa yang sangat logis.</li>
+<li><strong>Validity (4/5):</strong> Penggunaan teknologi LPWAN didukung alasan teknis yang kuat, meskipun ketahanan sensor fisik di medan ekstrem perlu pendalaman.<br>
+</li>
+<li><strong>Usefulness (5/5):</strong> Inovasi ini sangat bermanfaat bagi 2 miliar orang yang menghadapi krisis air dan kerawanan pangan akibat iklim.</li>
+</ul>
+<p><strong>Rata-rata skor UAS-3: 4,75/5</strong></p>
+</section>
+<section id="uas-4-my-knowledge-landasan-teknis-terraguard" class="level3" data-number="11.1.4">
+<h3 data-number="11.1.4" class="anchored" data-anchor-id="uas-4-my-knowledge-landasan-teknis-terraguard"><span class="header-section-number">11.1.4</span> UAS-4: My Knowledge (Landasan Teknis TerraGuard)</h3>
+<ul>
+<li><strong>Clarity (5/5):</strong> Integrasi RNN, IoT, dan sistem terdistribusi dijelaskan secara gamblang sebagai landasan teknis penyelamatan nyawa.<br>
+</li>
+<li><strong>Logic (5/5):</strong> Struktur pengetahuan sangat koheren, menghubungkan teori sistem dinamis dengan kebutuhan mitigasi krisis air bagi 2 miliar orang.<br>
+</li>
+<li><strong>Validity (5/5):</strong> Dasar pengetahuan menggunakan teknologi nyata seperti LSTM, LPWAN, dan GIS yang teruji dalam domain rekayasa sistem informasi.<br>
+</li>
+<li><strong>Usefulness (5/5):</strong> Memberikan kerangka teknis yang sangat bermanfaat untuk memenuhi target SDG 13 melalui otomasi mitigasi.</li>
+</ul>
+<p><strong>Rata-rata skor UAS-4: 5,0/5</strong></p>
+</section>
+<section id="final-score" class="level3" data-number="11.1.5">
+<h3 data-number="11.1.5" class="anchored" data-anchor-id="final-score"><span class="header-section-number">11.1.5</span> Final Score</h3>
+<p><strong>Skor Akhir Keseluruhan: 19,25/20 (Excellent)</strong></p>
+<p><strong>Catatan AI:</strong> Esai ini secara konsisten menunjukkan pemahaman mendalam tentang krisis iklim global dan menawarkan solusi rekayasa sistem informasi yang berpusat pada pemberdayaan manusia (agensi).</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
