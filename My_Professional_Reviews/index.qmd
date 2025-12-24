@@ -1,9 +1,6 @@
 ## UAS-5 My Professional Reviews  
 Laporan ini berisi telahan (review) personal untuk UAS-1, UAS-2, UAS-3, dan UAS-4. Bagian pertama adalah Self-Assessment yang dilakukan oleh dua model AI (Gemini) berdasarkan rubrik resmi. Bagian kedua adalah template untuk Peer-Assessment. Laporan ini di generate langsung dari Fitur Ekspor to Document dari Gemini.  
 
-### Penilaian Peer
-[Penilaian Peer (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/170NzHF0z30AITfQgkTIJsuJiGTa-Qtsq5H2_C_uLNS0/edit?usp=sharing)
-
 ## **Self-Assessment (AI \- Gemini)**
 
 ### UAS-1: My Concept (Sentry-Planet)
@@ -45,3 +42,13 @@ Rata-rata skor UAS-2: 4,75/5
 **Skor Akhir Keseluruhan: 19,25/20 (Excellent)** 
 
 **Catatan AI:** Esai ini secara konsisten menunjukkan pemahaman mendalam tentang krisis iklim global dan menawarkan solusi rekayasa sistem informasi yang berpusat pada pemberdayaan manusia (agensi).  
+
+## Penilaian Peer Assessment
+Penilaian terhadap:  
+
+- M. Abizzar Gamadrian (13523155)  
+- Nashwa Kamila (14324017)  
+- Muhammad Reyna Athallah Agoes (18224112)  
+
+Dapat dilihat di: 
+[Penilaian Peer (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/170NzHF0z30AITfQgkTIJsuJiGTa-Qtsq5H2_C_uLNS0/edit?usp=sharing)
