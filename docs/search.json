@@ -360,16 +360,6 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "12  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.",
-    "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
     "objectID": "My_Professional_Reviews/index.html#penilaian-peer-assessment",
     "href": "My_Professional_Reviews/index.html#penilaian-peer-assessment",
     "title": "11  UAS-5 My Professional Reviews",
@@ -377,6 +367,16 @@
     "text": "11.2 Penilaian Peer Assessment\nPenilaian terhadap:\n\nM. Abizzar Gamadrian (13523155)\n\nNashwa Kamila (14324017)\n\nMuhammad Reyna Athallah Agoes (18224112)\n\nDapat dilihat di: Penilaian Peer (Google Spreadsheet)",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "12  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
     ]
   }
 ]
