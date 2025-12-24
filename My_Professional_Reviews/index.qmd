@@ -1,7 +1,7 @@
 ## UAS-5 My Professional Reviews  
 Laporan ini berisi telahan (review) personal untuk UAS-1, UAS-2, UAS-3, dan UAS-4. Bagian pertama adalah Self-Assessment yang dilakukan oleh dua model AI (Gemini) berdasarkan rubrik resmi. Bagian kedua adalah template untuk Peer-Assessment. Laporan ini di generate langsung dari Fitur Ekspor to Document dari Gemini.  
 
-[Penilaian Peer (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1aBEY_nFLekKzj8NWqjGLtclp3MAagh4s/edit?usp=sharing&ouid=106681560138166355842&rtpof=true&sd=true)
+[Penilaian Peer (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/170NzHF0z30AITfQgkTIJsuJiGTa-Qtsq5H2_C_uLNS0/edit?usp=sharing)
 
 ## **Self-Assessment (AI \- Gemini)**
 
